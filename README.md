@@ -7,7 +7,7 @@ In this project, client-server communication has been implemented, using the app
 <div align="center">
   <h3>Components :jigsaw:</h3>
 </div>
-- ESP32 microcontroller
+* ESP32 microcontroller
 - Raspberry Pi
 - BMP180 sensor
 - LED diode
